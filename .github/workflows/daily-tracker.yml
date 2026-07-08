@@ -2,10 +2,10 @@ name: Daily Winbond Price Tracker
 
 on:
   schedule:
-    # Runs every day at 9:00 AM UTC.
+    # Runs every day at 4:00 AM UTC.
     # Adjust the hour below if you want a different time -
     # this is UTC, not your local time.
-    - cron: "0 9 * * *"
+    - cron: "0 4 * * *"
   workflow_dispatch: {}  # lets you also trigger it manually from the Actions tab
 
 jobs:
