@@ -2191,3 +2191,4 @@ date,density,type,manufacturer,part_number,price_usd,pct_change_vs_last_pull
 2026-11-16,1Gb,NAND,ISSI,IS37SML01G1-LLI,16.46,0.0
 2026-11-16,2Gb,NAND,Winbond,W25N02KVZEIR,22.94,0.0
 2026-11-16,2Gb,NAND,Macronix,MX35LF2GE4AD-Z4I,23.59,0.0
+2026-11-17,1Gb,NAND,Macronix,MX35LF1GE4AB-Z4I,15.95,0.0
